@@ -27,7 +27,7 @@ I'm also interest DevOps technologies and I'm passionate about it. I'm currently
 ### 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/barisakdas">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=barisakdas&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mberbero"/><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisakdas&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mberbero"/>
+<a href="https://github.com/barisakdaspoc">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=barisakdaspoc&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mberbero"/><img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=barisakdaspoc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mberbero"/>
 </a>
 </p>
